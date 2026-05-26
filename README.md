@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a BSc Computer Science student with a strong passion for software development, web technologies, and mobile application development. Driven by curiosity and continuous learning, with hands-on experience in building projects using Python, SQL, Flutter, and modern web technologies through academic projects and hackathons.
+
+Skilled in problem-solving, database management, frontend development, and application design, with experience developing practical solutions and citizen-centric mobile applications. Known for quickly adapting to new technologies, building user-focused applications, and maintaining a development-oriented approach to learning and growth.
+
+Passionate about creating impactful digital solutions, collaborating on innovative projects, and continuously improving technical skills through real-world development experience, teamwork, and participation in hackathons and technical events.
